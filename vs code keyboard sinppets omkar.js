@@ -35,5 +35,11 @@
     "prefix": "impline",
     "body": ["// ===== Imports ===== $1 // ===== Imports ====="],
     "description": "Imports line for convenience/ partition"
+  },
+  "Prettier-ignore": {
+    "scope": "javascript,typescript",
+    "prefix": "pi",
+    "body": ["// prettier-ignore"],
+    "description": "Adds comment block for prettier ignore"
   }
 }
